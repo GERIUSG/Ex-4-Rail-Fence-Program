@@ -142,3 +142,4 @@ return 0;
 ![image](https://github.com/user-attachments/assets/2f4a75f5-c960-4d22-8b1b-ed1d4b6da483)
 
 # RESULT
+Thus the program excuted successfully.
